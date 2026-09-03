@@ -1,0 +1,6 @@
+{
+  "name": "Synthex AI - Autonomous Analytics & Automation Platform",
+  "description": "Enterprise autonomous AI analytics and workflow automation platform featuring interactive pipeline execution visualizers, secure lead capture, and n8n/Make webhook integration architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
